@@ -1,2 +1,2 @@
-# Repo1
+# Repositorio Learning
 Repositorio de Trabajo Workshops y Practicas
